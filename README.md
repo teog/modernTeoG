@@ -1,7 +1,7 @@
 modernTeoG extend ModernExtra20
 
 
-Modern watchface (thanks to Zalew & JamesFowler42)
+Modern watchface 
 
 -viber on disconnect
 -no second
