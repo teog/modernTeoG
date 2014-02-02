@@ -1,0 +1,47 @@
+{
+    "versionLabel": "1.0.0",
+    "uuid": "b03f16a0-7cbb-11e3-baa7-0800200c9a66",
+    "appKeys": {
+        "dummy": 0
+    },
+    "longName": "Modern Teog",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "Modern",
+    "companyName": "TeoG",
+    "watchapp": {
+        "watchface": true
+    },
+    "resources": {
+        "media": [
+            {
+                "type": "png",
+                "name": "BLUETOOTH",
+                "file": "images/bluetooth.png"
+            },
+            {
+                "type": "png",
+                "name": "BATTERY_CHARGE",
+                "file": "images/battery-charge.png"
+            },
+            {
+                "type": "png",
+                "name": "BATTERY_ICON",
+                "file": "images/battery_icon.png"
+            },
+            {
+                "menuIcon": true,
+                "type": "png",
+                "name": "IMAGE_MENU_ICON",
+                "file": "images/modern_logo.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_BACKGROUND",
+                "file": "images/modern_background_new.png"
+            }
+        ]
+    }
+}
