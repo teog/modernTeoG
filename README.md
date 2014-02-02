@@ -1,6 +1,10 @@
-ModernExtra20
-=============
+modernTeoG extend ModernExtra20
 
-Modern watchface (thanks to Zalew & JamesFowler42) providing bluetooth connection status and watch battery charge level (with charging indicator).
 
-No seconds.
+Modern watchface 
+
+-viber on disconnect
+-no second
+-http configuration
+-reverse B/W
+-enalrge date
