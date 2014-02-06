@@ -1,539 +1,523 @@
 Archive member included because of file (symbol)
 
-/home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+/home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
                               src/main.c.12.o (app_event_loop)
-/home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_addsubdf3.o)
+/home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_addsubdf3.o)
                               src/main.c.12.o (__aeabi_i2d)
-/home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_muldivdf3.o)
+/home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_muldivdf3.o)
                               src/main.c.12.o (__aeabi_dmul)
-/home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_fixunsdfsi.o)
+/home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_fixunsdfsi.o)
                               src/main.c.12.o (__aeabi_d2uiz)
 
 Discarded input sections
 
- .text          0x00000000        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crti.o
- .bss           0x00000000        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crti.o
- .init          0x00000000        0x4 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crti.o
- .fini          0x00000000        0x4 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crti.o
- .text          0x00000000       0xc8 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtbegin.o
- .bss           0x00000000       0x1c /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtbegin.o
- .init_array    0x00000000        0x4 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtbegin.o
- .fini_array    0x00000000        0x4 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtbegin.o
- .eh_frame      0x00000000        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtbegin.o
- .jcr           0x00000000        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtbegin.o
+ .text          0x00000000        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crti.o
+ .bss           0x00000000        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crti.o
+ .init          0x00000000        0x4 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crti.o
+ .fini          0x00000000        0x4 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crti.o
+ .text          0x00000000       0xc8 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtbegin.o
+ .bss           0x00000000       0x1c /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtbegin.o
+ .init_array    0x00000000        0x4 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtbegin.o
+ .fini_array    0x00000000        0x4 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtbegin.o
+ .eh_frame      0x00000000        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtbegin.o
+ .jcr           0x00000000        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtbegin.o
  .tm_clone_table
-                0x00000000        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtbegin.o
+                0x00000000        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtbegin.o
  .text          0x00000000        0x0 src/main.c.12.o
  .bss           0x00000000        0x0 src/main.c.12.o
+ .text.generate_vibe
+                0x00000000        0x2 src/main.c.12.o
  .text          0x00000000        0x0 appinfo.auto.c.12.o
  .bss           0x00000000        0x0 appinfo.auto.c.12.o
- .bss           0x00000000        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+ .bss           0x00000000        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.accel_data_service_subscribe__deprecated
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.accel_data_service_unsubscribe
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.accel_service_peek
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.accel_service_set_samples_per_update
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.accel_service_set_sampling_rate
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.accel_tap_service_subscribe
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.accel_tap_service_unsubscribe
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.action_bar_layer_add_to_window
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.action_bar_layer_clear_icon
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.action_bar_layer_create
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.action_bar_layer_destroy
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.action_bar_layer_get_layer
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.action_bar_layer_remove_from_window
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.action_bar_layer_set_background_color
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.action_bar_layer_set_click_config_provider
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.action_bar_layer_set_context
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.action_bar_layer_set_icon
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.animation_create
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.animation_destroy
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.animation_get_context
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.animation_is_scheduled
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.animation_schedule
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.animation_set_curve
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.animation_set_delay
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.animation_set_duration
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.animation_set_handlers
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.animation_set_implementation
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.animation_unschedule
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.animation_unschedule_all
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.app_comm_get_sniff_interval
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.app_comm_set_sniff_interval
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
- .text.app_log  0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+ .text.app_log  0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.app_message_deregister_callbacks
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
- .text.app_message_open
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.app_sync_deinit
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.app_sync_get
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.app_sync_init
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.app_sync_set
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.app_timer_cancel
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.app_timer_reschedule
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.atan2_lookup
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
- .text.atoi     0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
- .text.atol     0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+ .text.atoi     0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+ .text.atol     0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.battery_state_service_unsubscribe
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.bitmap_layer_create
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.bitmap_layer_destroy
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.bitmap_layer_get_layer
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.bitmap_layer_set_alignment
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.bitmap_layer_set_background_color
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.bitmap_layer_set_bitmap
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.bitmap_layer_set_compositing_mode
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.bluetooth_connection_service_unsubscribe
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.click_number_of_clicks_counted
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.click_recognizer_get_button_id
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.clock_copy_time_string
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.clock_is_24h_style
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.data_logging_create
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.data_logging_finish
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.data_logging_log
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.dict_calc_buffer_size
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.dict_calc_buffer_size_from_tuplets
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
- .text.dict_find
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.dict_merge
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.dict_read_begin_from_buffer
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.dict_read_first
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.dict_read_next
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.dict_serialize_tuplets
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.dict_serialize_tuplets_to_buffer__deprecated
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.dict_serialize_tuplets_to_buffer_with_iter
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.dict_write_begin
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.dict_write_cstring
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.dict_write_data
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.dict_write_end
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.dict_write_int
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.dict_write_int16
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.dict_write_int32
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.dict_write_int8
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.dict_write_tuplet
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.dict_write_uint16
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.dict_write_uint32
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.dict_write_uint8
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.fonts_load_custom_font
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.fonts_unload_custom_font
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
- .text.free     0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+ .text.free     0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.gbitmap_create_as_sub_bitmap
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.gbitmap_create_with_data
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
- .text.gmtime   0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+ .text.gmtime   0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.gpoint_equal
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.graphics_context_set_text_color
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.graphics_draw_circle
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.graphics_draw_pixel
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.graphics_draw_rect
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.graphics_draw_round_rect
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.graphics_text_layout_get_max_used_size
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.grect_align
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.grect_clip
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.grect_contains_point
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.grect_crop
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.grect_equal
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.grect_is_empty
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.grect_standardize
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.gsize_equal
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
- .text.inverter_layer_create
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
- .text.inverter_layer_destroy
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
- .text.inverter_layer_get_layer
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.layer_create_with_data
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.layer_get_bounds
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.layer_get_clips
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.layer_get_data
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.layer_get_frame
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.layer_get_hidden
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.layer_get_window
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.layer_insert_above_sibling
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.layer_insert_below_sibling
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.layer_remove_child_layers
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.layer_remove_from_parent
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.layer_set_bounds
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.layer_set_clips
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.layer_set_frame
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.light_enable
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.light_enable_interaction
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
- .text.malloc   0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
- .text.memcpy   0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
- .text.memmove  0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
- .text.memset   0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+ .text.malloc   0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+ .text.memcpy   0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+ .text.memmove  0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+ .text.memset   0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.menu_cell_basic_draw
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.menu_cell_basic_header_draw
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.menu_cell_title_draw
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.menu_index_compare
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.menu_layer_create
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.menu_layer_destroy
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.menu_layer_get_layer
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.menu_layer_get_scroll_layer
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.menu_layer_get_selected_index
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.menu_layer_reload_data
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.menu_layer_set_callbacks
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.menu_layer_set_click_config_onto_window
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.menu_layer_set_selected_index
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.menu_layer_set_selected_next
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.number_window_create
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.number_window_destroy
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.number_window_get_value
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.number_window_set_label
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.number_window_set_max
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.number_window_set_min
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.number_window_set_step_size
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.number_window_set_value
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.persist_delete
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
- .text.persist_exists
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.persist_get_size
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.persist_read_bool
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.persist_read_data__deprecated
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.persist_read_int
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.persist_read_string__deprecated
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.persist_write_bool
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.persist_write_data__deprecated
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.persist_write_int
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.persist_write_string
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.property_animation_create
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.property_animation_create_layer_frame
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.property_animation_destroy
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.property_animation_update_gpoint
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.property_animation_update_grect
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.property_animation_update_int16
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
- .text.psleep   0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
- .text.rand     0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+ .text.psleep   0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+ .text.rand     0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.resource_get_handle
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.resource_load
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.resource_load_byte_range
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.resource_size
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.rot_bitmap_layer_create
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.rot_bitmap_layer_destroy
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.rot_bitmap_layer_increment_angle
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.rot_bitmap_layer_set_angle
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.rot_bitmap_layer_set_corner_clip_color
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.rot_bitmap_set_compositing_mode
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.rot_bitmap_set_src_ic
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.scroll_layer_add_child
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.scroll_layer_create
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.scroll_layer_destroy
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.scroll_layer_get_content_offset
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.scroll_layer_get_content_size
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.scroll_layer_get_layer
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.scroll_layer_get_shadow_hidden
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.scroll_layer_scroll_down_click_handler
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.scroll_layer_scroll_up_click_handler
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.scroll_layer_set_callbacks
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.scroll_layer_set_click_config_onto_window
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.scroll_layer_set_content_offset
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.scroll_layer_set_content_size
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.scroll_layer_set_context
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.scroll_layer_set_frame
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.scroll_layer_set_shadow_hidden
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.simple_menu_layer_create
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.simple_menu_layer_destroy
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.simple_menu_layer_get_layer
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.simple_menu_layer_get_selected_index
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.simple_menu_layer_set_selected_index
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.snprintf
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
- .text.srand    0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
- .text.strcat   0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
- .text.strcmp   0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
- .text.strcpy   0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
- .text.strlen   0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
- .text.strncat  0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
- .text.strncmp  0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
- .text.strncpy  0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+ .text.srand    0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+ .text.strcat   0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+ .text.strcmp   0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+ .text.strcpy   0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+ .text.strlen   0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+ .text.strncat  0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+ .text.strncmp  0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+ .text.strncpy  0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.text_layer_get_content_size
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.text_layer_get_text
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.text_layer_set_overflow_mode
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.text_layer_set_size
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
- .text.time_ms  0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+ .text.time_ms  0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+ .text.vibes_cancel
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+ .text.vibes_double_pulse
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+ .text.vibes_enqueue_custom_pattern
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+ .text.vibes_long_pulse
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+ .text.vibes_short_pulse
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.window_get_click_config_provider
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.window_get_fullscreen
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.window_is_loaded
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.window_set_background_color
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.window_set_click_config_provider
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.window_set_click_config_provider_with_context
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.window_set_fullscreen
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.window_set_status_bar_icon
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.window_set_window_handlers
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.window_stack_contains_window
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.window_stack_get_top_window
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.window_stack_pop
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.window_stack_pop_all
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.window_stack_remove
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.app_focus_service_subscribe
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.app_focus_service_unsubscribe
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.window_get_user_data
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.window_set_user_data
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.app_message_get_context
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
- .text.app_message_inbox_size_maximum
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.app_message_outbox_begin
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.app_message_outbox_send
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
- .text.app_message_outbox_size_maximum
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
- .text.app_message_register_inbox_dropped
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
- .text.app_message_register_inbox_received
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
- .text.app_message_register_outbox_failed
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
- .text.app_message_register_outbox_sent
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.app_message_set_context
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.window_long_click_subscribe
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.window_multi_click_subscribe
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.window_raw_click_subscribe
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.window_set_click_context
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.window_single_click_subscribe
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.window_single_repeating_click_subscribe
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.graphics_draw_text
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.dict_serialize_tuplets_to_buffer
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
- .text.persist_read_data
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.persist_read_string
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
- .text.persist_write_data
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.dict_size
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.graphics_text_layout_get_content_size
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.simple_menu_layer_get_menu_layer
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.accel_data_service_subscribe
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
- .text.calloc   0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+ .text.calloc   0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .text.bitmap_layer_get_bitmap
-                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
- .bss           0x00000000        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_addsubdf3.o)
- .bss           0x00000000        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_muldivdf3.o)
- .bss           0x00000000        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_fixunsdfsi.o)
- .text          0x00000000        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtend.o
- .bss           0x00000000        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtend.o
- .eh_frame      0x00000000        0x4 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtend.o
- .jcr           0x00000000        0x4 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtend.o
+                0x00000000        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+ .bss           0x00000000        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_fixunsdfsi.o)
+ .text          0x00000000        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtend.o
+ .bss           0x00000000        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtend.o
+ .eh_frame      0x00000000        0x4 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtend.o
+ .jcr           0x00000000        0x4 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtend.o
  .tm_clone_table
-                0x00000000        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtend.o
- .text          0x00000000        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtn.o
- .bss           0x00000000        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtn.o
- .init          0x00000000        0x8 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtn.o
- .fini          0x00000000        0x8 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtn.o
+                0x00000000        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtend.o
+ .text          0x00000000        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtn.o
+ .bss           0x00000000        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtn.o
+ .init          0x00000000        0x8 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtn.o
+ .fini          0x00000000        0x8 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtn.o
 
 Memory Configuration
 
@@ -543,27 +527,27 @@ APP              0x00000000         0x00006000         xrw
 
 Linker script and memory map
 
-LOAD /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crti.o
-LOAD /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtbegin.o
+LOAD /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crti.o
+LOAD /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtbegin.o
 LOAD src/main.c.12.o
 LOAD appinfo.auto.c.12.o
-LOAD /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a
+LOAD /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a
 START GROUP
-LOAD /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a
-LOAD /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb2/libc.a
+LOAD /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a
+LOAD /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb2/libc.a
 END GROUP
-LOAD /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtend.o
-LOAD /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtn.o
+LOAD /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtend.o
+LOAD /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtn.o
 
 .header         0x00000000       0x82
  *(.pbl_header)
  .pbl_header    0x00000000       0x82 appinfo.auto.c.12.o
                 0x00000000                __pbl_app_info
 
-.text           0x00000084     0x15cc
+.text           0x00000084     0x163c
  *(.text)
- .text          0x00000084       0x14 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
- .text          0x00000098      0x370 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_addsubdf3.o)
+ .text          0x00000084       0x14 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+ .text          0x00000098      0x370 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_addsubdf3.o)
                 0x00000098                __aeabi_drsub
                 0x000000a0                __aeabi_dsub
                 0x000000a0                __subdf3
@@ -579,334 +563,383 @@ LOAD /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/ar
                 0x0000039c                __floatundidf
                 0x000003ac                __floatdidf
                 0x000003ac                __aeabi_l2d
- .text          0x00000408      0x424 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_muldivdf3.o)
+ .text          0x00000408      0x424 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_muldivdf3.o)
                 0x00000408                __aeabi_dmul
                 0x00000408                __muldf3
                 0x0000065c                __aeabi_ddiv
                 0x0000065c                __divdf3
- .text          0x0000082c       0x40 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_fixunsdfsi.o)
+ .text          0x0000082c       0x40 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_fixunsdfsi.o)
                 0x0000082c                __fixunsdfsi
                 0x0000082c                __aeabi_d2uiz
  *(.text.*)
+ .text.my_in_drp_handler
+                0x0000086c        0x2 src/main.c.12.o
+                0x0000086c                my_in_drp_handler
+ .text.my_out_sent_handler
+                0x0000086e        0x2 src/main.c.12.o
+                0x0000086e                my_out_sent_handler
+ .text.my_out_fail_handler
+                0x00000870        0x2 src/main.c.12.o
+                0x00000870                my_out_fail_handler
+ *fill*         0x00000872        0x2 
  .text.bt_connection_handler
-                0x0000086c       0x18 src/main.c.12.o
-                0x0000086c                bt_connection_handler
+                0x00000874       0x18 src/main.c.12.o
+                0x00000874                bt_connection_handler
  .text.battery_state_handler
-                0x00000884       0x2c src/main.c.12.o
-                0x00000884                battery_state_handler
+                0x0000088c       0x2c src/main.c.12.o
+                0x0000088c                battery_state_handler
  .text.draw_background_callback
-                0x000008b0       0x38 src/main.c.12.o
-                0x000008b0                draw_background_callback
+                0x000008b8       0x38 src/main.c.12.o
+                0x000008b8                draw_background_callback
  .text.hour_display_layer_update_callback
-                0x000008e8       0xa8 src/main.c.12.o
-                0x000008e8                hour_display_layer_update_callback
+                0x000008f0       0xa8 src/main.c.12.o
+                0x000008f0                hour_display_layer_update_callback
  .text.minute_display_layer_update_callback
-                0x00000990       0x88 src/main.c.12.o
-                0x00000990                minute_display_layer_update_callback
+                0x00000998       0x88 src/main.c.12.o
+                0x00000998                minute_display_layer_update_callback
  .text.center_display_layer_update_callback
-                0x00000a18       0x54 src/main.c.12.o
-                0x00000a18                center_display_layer_update_callback
+                0x00000a20       0x54 src/main.c.12.o
+                0x00000a20                center_display_layer_update_callback
  .text.second_display_layer_update_callback
-                0x00000a6c       0xf0 src/main.c.12.o
-                0x00000a6c                second_display_layer_update_callback
+                0x00000a74       0xf0 src/main.c.12.o
+                0x00000a74                second_display_layer_update_callback
  .text.handle_timer
-                0x00000b5c       0xc4 src/main.c.12.o
-                0x00000b5c                handle_timer
+                0x00000b64       0xc4 src/main.c.12.o
+                0x00000b64                handle_timer
  .text.battery_layer_update_callback
-                0x00000c20       0xd4 src/main.c.12.o
-                0x00000c20                battery_layer_update_callback
+                0x00000c28       0xd4 src/main.c.12.o
+                0x00000c28                battery_layer_update_callback
  .text.draw_date
-                0x00000cf4       0x40 src/main.c.12.o
-                0x00000cf4                draw_date
+                0x00000cfc       0x40 src/main.c.12.o
+                0x00000cfc                draw_date
  .text.handle_tick
-                0x00000d34       0x90 src/main.c.12.o
-                0x00000d34                handle_tick
- .text.generate_vibe
-                0x00000dc4       0xc8 src/main.c.12.o
-                0x00000dc4                generate_vibe
+                0x00000d3c       0x90 src/main.c.12.o
+                0x00000d3c                handle_tick
  .text.bt_layer_update_callback
-                0x00000e8c       0x54 src/main.c.12.o
-                0x00000e8c                bt_layer_update_callback
- .text.init     0x00000ee0      0x2b8 src/main.c.12.o
-                0x00000ee0                init
- .text.deinit   0x00001198       0xe8 src/main.c.12.o
-                0x00001198                deinit
+                0x00000dcc       0x64 src/main.c.12.o
+                0x00000dcc                bt_layer_update_callback
+ .text.in_configuration_handler
+                0x00000e30       0x58 src/main.c.12.o
+                0x00000e30                in_configuration_handler
+ .text.my_in_rcv_handler
+                0x00000e88       0x1c src/main.c.12.o
+                0x00000e88                my_in_rcv_handler
+ .text.init     0x00000ea4      0x344 src/main.c.12.o
+                0x00000ea4                init
+ .text.deinit   0x000011e8      0x104 src/main.c.12.o
+                0x000011e8                deinit
  .text.conserve_power
-                0x00001280       0x60 src/main.c.12.o
-                0x00001280                conserve_power
+                0x000012ec       0x60 src/main.c.12.o
+                0x000012ec                conserve_power
  .text.startup.main
-                0x000012e0       0x40 src/main.c.12.o
-                0x000012e0                main
+                0x0000134c       0x40 src/main.c.12.o
+                0x0000134c                main
  .text.app_event_loop
-                0x00001320        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x00001320                app_event_loop
+                0x0000138c        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x0000138c                app_event_loop
+ .text.app_message_open
+                0x00001398        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x00001398                app_message_open
  .text.app_timer_register
-                0x0000132c        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x0000132c                app_timer_register
+                0x000013a4        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x000013a4                app_timer_register
  .text.battery_state_service_peek
-                0x00001338        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x00001338                battery_state_service_peek
+                0x000013b0        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x000013b0                battery_state_service_peek
  .text.battery_state_service_subscribe
-                0x00001344        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x00001344                battery_state_service_subscribe
+                0x000013bc        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x000013bc                battery_state_service_subscribe
  .text.bluetooth_connection_service_peek
-                0x00001350        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x00001350                bluetooth_connection_service_peek
+                0x000013c8        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x000013c8                bluetooth_connection_service_peek
  .text.bluetooth_connection_service_subscribe
-                0x0000135c        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x0000135c                bluetooth_connection_service_subscribe
+                0x000013d4        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x000013d4                bluetooth_connection_service_subscribe
  .text.cos_lookup
-                0x00001368        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x00001368                cos_lookup
+                0x000013e0        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x000013e0                cos_lookup
+ .text.dict_find
+                0x000013ec        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x000013ec                dict_find
  .text.fonts_get_system_font
-                0x00001374        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x00001374                fonts_get_system_font
+                0x000013f8        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x000013f8                fonts_get_system_font
  .text.gbitmap_create_with_resource
-                0x00001380        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x00001380                gbitmap_create_with_resource
+                0x00001404        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x00001404                gbitmap_create_with_resource
  .text.gbitmap_destroy
-                0x0000138c        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x0000138c                gbitmap_destroy
+                0x00001410        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x00001410                gbitmap_destroy
  .text.gpath_create
-                0x00001398        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x00001398                gpath_create
+                0x0000141c        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x0000141c                gpath_create
  .text.gpath_destroy
-                0x000013a4        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x000013a4                gpath_destroy
+                0x00001428        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x00001428                gpath_destroy
  .text.gpath_draw_filled
-                0x000013b0        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x000013b0                gpath_draw_filled
+                0x00001434        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x00001434                gpath_draw_filled
  .text.gpath_draw_outline
-                0x000013bc        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x000013bc                gpath_draw_outline
+                0x00001440        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x00001440                gpath_draw_outline
  .text.gpath_move_to
-                0x000013c8        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x000013c8                gpath_move_to
+                0x0000144c        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x0000144c                gpath_move_to
  .text.gpath_rotate_to
-                0x000013d4        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x000013d4                gpath_rotate_to
+                0x00001458        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x00001458                gpath_rotate_to
  .text.graphics_context_set_compositing_mode
-                0x000013e0        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x000013e0                graphics_context_set_compositing_mode
+                0x00001464        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x00001464                graphics_context_set_compositing_mode
  .text.graphics_context_set_fill_color
-                0x000013ec        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x000013ec                graphics_context_set_fill_color
+                0x00001470        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x00001470                graphics_context_set_fill_color
  .text.graphics_context_set_stroke_color
-                0x000013f8        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x000013f8                graphics_context_set_stroke_color
+                0x0000147c        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x0000147c                graphics_context_set_stroke_color
  .text.graphics_draw_bitmap_in_rect
-                0x00001404        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x00001404                graphics_draw_bitmap_in_rect
+                0x00001488        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x00001488                graphics_draw_bitmap_in_rect
  .text.graphics_draw_line
-                0x00001410        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x00001410                graphics_draw_line
+                0x00001494        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x00001494                graphics_draw_line
  .text.graphics_fill_circle
-                0x0000141c        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x0000141c                graphics_fill_circle
+                0x000014a0        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x000014a0                graphics_fill_circle
  .text.graphics_fill_rect
-                0x00001428        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x00001428                graphics_fill_rect
+                0x000014ac        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x000014ac                graphics_fill_rect
  .text.grect_center_point
-                0x00001434        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x00001434                grect_center_point
+                0x000014b8        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x000014b8                grect_center_point
+ .text.inverter_layer_create
+                0x000014c4        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x000014c4                inverter_layer_create
+ .text.inverter_layer_destroy
+                0x000014d0        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x000014d0                inverter_layer_destroy
+ .text.inverter_layer_get_layer
+                0x000014dc        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x000014dc                inverter_layer_get_layer
  .text.layer_add_child
-                0x00001440        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x00001440                layer_add_child
+                0x000014e8        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x000014e8                layer_add_child
  .text.layer_create
-                0x0000144c        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x0000144c                layer_create
+                0x000014f4        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x000014f4                layer_create
  .text.layer_destroy
-                0x00001458        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x00001458                layer_destroy
+                0x00001500        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x00001500                layer_destroy
  .text.layer_mark_dirty
-                0x00001464        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x00001464                layer_mark_dirty
+                0x0000150c        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x0000150c                layer_mark_dirty
  .text.layer_set_hidden
-                0x00001470        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x00001470                layer_set_hidden
+                0x00001518        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x00001518                layer_set_hidden
  .text.layer_set_update_proc
-                0x0000147c        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x0000147c                layer_set_update_proc
+                0x00001524        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x00001524                layer_set_update_proc
  .text.localtime
-                0x00001488        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x00001488                localtime
+                0x00001530        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x00001530                localtime
+ .text.persist_exists
+                0x0000153c        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x0000153c                persist_exists
  .text.sin_lookup
-                0x00001494        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x00001494                sin_lookup
+                0x00001548        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x00001548                sin_lookup
  .text.strftime
-                0x000014a0        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x000014a0                strftime
+                0x00001554        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x00001554                strftime
  .text.text_layer_create
-                0x000014ac        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x000014ac                text_layer_create
+                0x00001560        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x00001560                text_layer_create
  .text.text_layer_destroy
-                0x000014b8        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x000014b8                text_layer_destroy
+                0x0000156c        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x0000156c                text_layer_destroy
  .text.text_layer_get_layer
-                0x000014c4        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x000014c4                text_layer_get_layer
+                0x00001578        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x00001578                text_layer_get_layer
  .text.text_layer_set_background_color
-                0x000014d0        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x000014d0                text_layer_set_background_color
+                0x00001584        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x00001584                text_layer_set_background_color
  .text.text_layer_set_font
-                0x000014dc        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x000014dc                text_layer_set_font
+                0x00001590        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x00001590                text_layer_set_font
  .text.text_layer_set_text
-                0x000014e8        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x000014e8                text_layer_set_text
+                0x0000159c        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x0000159c                text_layer_set_text
  .text.text_layer_set_text_alignment
-                0x000014f4        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x000014f4                text_layer_set_text_alignment
+                0x000015a8        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x000015a8                text_layer_set_text_alignment
  .text.text_layer_set_text_color
-                0x00001500        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x00001500                text_layer_set_text_color
+                0x000015b4        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x000015b4                text_layer_set_text_color
  .text.tick_timer_service_subscribe
-                0x0000150c        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x0000150c                tick_timer_service_subscribe
+                0x000015c0        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x000015c0                tick_timer_service_subscribe
  .text.tick_timer_service_unsubscribe
-                0x00001518        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x00001518                tick_timer_service_unsubscribe
- .text.time     0x00001524        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x00001524                time
- .text.vibes_cancel
-                0x00001530        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x00001530                vibes_cancel
- .text.vibes_double_pulse
-                0x0000153c        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x0000153c                vibes_double_pulse
- .text.vibes_enqueue_custom_pattern
-                0x00001548        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x00001548                vibes_enqueue_custom_pattern
- .text.vibes_long_pulse
-                0x00001554        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x00001554                vibes_long_pulse
- .text.vibes_short_pulse
-                0x00001560        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x00001560                vibes_short_pulse
+                0x000015cc        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x000015cc                tick_timer_service_unsubscribe
+ .text.time     0x000015d8        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x000015d8                time
  .text.window_create
-                0x0000156c        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x0000156c                window_create
+                0x000015e4        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x000015e4                window_create
  .text.window_destroy
-                0x00001578        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x00001578                window_destroy
+                0x000015f0        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x000015f0                window_destroy
  .text.window_get_root_layer
-                0x00001584        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x00001584                window_get_root_layer
+                0x000015fc        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x000015fc                window_get_root_layer
  .text.window_stack_push
-                0x00001590        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
-                0x00001590                window_stack_push
+                0x00001608        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x00001608                window_stack_push
+ .text.app_message_inbox_size_maximum
+                0x00001614        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x00001614                app_message_inbox_size_maximum
+ .text.app_message_outbox_size_maximum
+                0x00001620        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x00001620                app_message_outbox_size_maximum
+ .text.app_message_register_inbox_dropped
+                0x0000162c        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x0000162c                app_message_register_inbox_dropped
+ .text.app_message_register_inbox_received
+                0x00001638        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x00001638                app_message_register_inbox_received
+ .text.app_message_register_outbox_failed
+                0x00001644        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x00001644                app_message_register_outbox_failed
+ .text.app_message_register_outbox_sent
+                0x00001650        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x00001650                app_message_register_outbox_sent
+ .text.persist_read_data
+                0x0000165c        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x0000165c                persist_read_data
+ .text.persist_write_data
+                0x00001668        0xc /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+                0x00001668                persist_write_data
  *(.rodata)
- .rodata        0x0000159c       0x98 src/main.c.12.o
+ .rodata        0x00001674       0x30 src/main.c.12.o
  *(.rodata*)
  .rodata.str1.1
-                0x00001634       0x1c src/main.c.12.o
+                0x000016a4       0x1c src/main.c.12.o
 
-.glue_7         0x00001650        0x0
+.glue_7         0x000016c0        0x0
  .glue_7        0x00000000        0x0 linker stubs
 
-.glue_7t        0x00001650        0x0
+.glue_7t        0x000016c0        0x0
  .glue_7t       0x00000000        0x0 linker stubs
 
-.vfp11_veneer   0x00001650        0x0
+.vfp11_veneer   0x000016c0        0x0
  .vfp11_veneer  0x00000000        0x0 linker stubs
 
-.v4_bx          0x00001650        0x0
+.v4_bx          0x000016c0        0x0
  .v4_bx         0x00000000        0x0 linker stubs
 
-.iplt           0x00001650        0x0
- .iplt          0x00000000        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtbegin.o
+.iplt           0x000016c0        0x0
+ .iplt          0x00000000        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtbegin.o
 
-.rel.dyn        0x00001650        0x0
- .rel.iplt      0x00000000        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtbegin.o
+.rel.dyn        0x000016c0        0x0
+ .rel.iplt      0x00000000        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtbegin.o
 
-.data           0x00001650       0x44
+.data           0x000016c0       0x48
  *(.data)
- .data          0x00001650        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crti.o
- .data          0x00001650        0x4 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtbegin.o
-                0x00001650                __dso_handle
- .data          0x00001654        0x0 src/main.c.12.o
- .data          0x00001654        0x0 appinfo.auto.c.12.o
- .data          0x00001654        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
- .data          0x00001654        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_addsubdf3.o)
- .data          0x00001654        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_muldivdf3.o)
- .data          0x00001654        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_fixunsdfsi.o)
- .data          0x00001654        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtend.o
- .data          0x00001654        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtn.o
+ .data          0x000016c0        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crti.o
+ .data          0x000016c0        0x4 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtbegin.o
+                0x000016c0                __dso_handle
+ .data          0x000016c4        0x0 src/main.c.12.o
+ .data          0x000016c4        0x0 appinfo.auto.c.12.o
+ .data          0x000016c4        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
+ .data          0x000016c4        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_addsubdf3.o)
+ .data          0x000016c4        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_muldivdf3.o)
+ .data          0x000016c4        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_fixunsdfsi.o)
+ .data          0x000016c4        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtend.o
+ .data          0x000016c4        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtn.o
  *(.data.*)
- .data.__compound_literal.0
-                0x00001654       0x10 src/main.c.12.o
- .data.my_cookie
-                0x00001664        0x4 src/main.c.12.o
- .data.__compound_literal.1
-                0x00001668       0x10 src/main.c.12.o
- .data.rel.ro.local.HOUR_HAND_PATH_POINTS
-                0x00001678        0x8 src/main.c.12.o
-                0x00001678                HOUR_HAND_PATH_POINTS
  .data.rel.ro.local.MINUTE_HAND_PATH_POINTS
-                0x00001680        0x8 src/main.c.12.o
-                0x00001680                MINUTE_HAND_PATH_POINTS
+                0x000016c4        0x8 src/main.c.12.o
+                0x000016c4                MINUTE_HAND_PATH_POINTS
+ .data.__compound_literal.0
+                0x000016cc       0x10 src/main.c.12.o
+ .data.my_cookie
+                0x000016dc        0x4 src/main.c.12.o
+ .data.__compound_literal.1
+                0x000016e0       0x10 src/main.c.12.o
+ .data.settings
+                0x000016f0        0x4 src/main.c.12.o
+                0x000016f0                settings
+ .data.rel.ro.local.HOUR_HAND_PATH_POINTS
+                0x000016f4        0x8 src/main.c.12.o
+                0x000016f4                HOUR_HAND_PATH_POINTS
  .data.init_anim
-                0x00001688        0x4 src/main.c.12.o
-                0x00001688                init_anim
+                0x000016fc        0x4 src/main.c.12.o
+                0x000016fc                init_anim
  .data.date_text
-                0x0000168c        0x8 src/main.c.12.o
+                0x00001700        0x8 src/main.c.12.o
 
-.igot.plt       0x00001694        0x0
- .igot.plt      0x00000000        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtbegin.o
+.igot.plt       0x00001708        0x0
+ .igot.plt      0x00000000        0x0 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtbegin.o
 
-.bss            0x00001694       0x59
+.bss            0x00001708       0x65
  *(.bss)
  *(.bss.*)
- .bss.center_display_layer
-                0x00001694        0x4 src/main.c.12.o
- .bss.window_layer
-                0x00001698        0x4 src/main.c.12.o
- .bss.icon_battery_charge
-                0x0000169c        0x4 src/main.c.12.o
  .bss.background_layer
-                0x000016a0        0x4 src/main.c.12.o
+                0x00001708        0x4 src/main.c.12.o
+ .bss.center_display_layer
+                0x0000170c        0x4 src/main.c.12.o
+ .bss.window_layer
+                0x00001710        0x4 src/main.c.12.o
+ .bss.icon_battery_charge
+                0x00001714        0x4 src/main.c.12.o
+ .bss.bt_ok     0x00001718        0x1 src/main.c.12.o
+ *fill*         0x00001719        0x3 
  .bss.minute_angle_anim
-                0x000016a4        0x4 src/main.c.12.o
-                0x000016a4                minute_angle_anim
- .bss.second_angle_anim
-                0x000016a8        0x4 src/main.c.12.o
-                0x000016a8                second_angle_anim
- .bss.minute_display_layer
-                0x000016ac        0x4 src/main.c.12.o
- .bss.bt_layer  0x000016b0        0x4 src/main.c.12.o
- .bss.battery_plugged
-                0x000016b4        0x1 src/main.c.12.o
- .bss.bt_ok     0x000016b5        0x1 src/main.c.12.o
- *fill*         0x000016b6        0x2 
- .bss.timer_handle
-                0x000016b8        0x4 src/main.c.12.o
+                0x0000171c        0x4 src/main.c.12.o
+                0x0000171c                minute_angle_anim
  .bss.minute_hand_path
-                0x000016bc        0x4 src/main.c.12.o
+                0x00001720        0x4 src/main.c.12.o
+ .bss.second_angle_anim
+                0x00001724        0x4 src/main.c.12.o
+                0x00001724                second_angle_anim
+ .bss.minute_display_layer
+                0x00001728        0x4 src/main.c.12.o
+ .bss.bt_layer  0x0000172c        0x4 src/main.c.12.o
+ .bss.battery_plugged
+                0x00001730        0x1 src/main.c.12.o
+ *fill*         0x00001731        0x3 
+ .bss.timer_handle
+                0x00001734        0x4 src/main.c.12.o
  .bss.battery_layer
-                0x000016c0        0x4 src/main.c.12.o
+                0x00001738        0x4 src/main.c.12.o
+ .bss.bluetooth_connected
+                0x0000173c        0x1 src/main.c.12.o
+ *fill*         0x0000173d        0x3 
  .bss.second_display_layer
-                0x000016c4        0x4 src/main.c.12.o
- .bss.window    0x000016c8        0x4 src/main.c.12.o
+                0x00001740        0x4 src/main.c.12.o
+ .bss.window    0x00001744        0x4 src/main.c.12.o
  .bss.battery_level
-                0x000016cc        0x1 src/main.c.12.o
- *fill*         0x000016cd        0x3 
+                0x00001748        0x1 src/main.c.12.o
+ *fill*         0x00001749        0x3 
  .bss.background_image_container
-                0x000016d0        0x4 src/main.c.12.o
+                0x0000174c        0x4 src/main.c.12.o
  .bss.hour_display_layer
-                0x000016d4        0x4 src/main.c.12.o
+                0x00001750        0x4 src/main.c.12.o
  .bss.icon_battery
-                0x000016d8        0x4 src/main.c.12.o
- .bss.icon_bt   0x000016dc        0x4 src/main.c.12.o
+                0x00001754        0x4 src/main.c.12.o
+ .bss.icon_bt   0x00001758        0x4 src/main.c.12.o
+ .bss.full_inverse_layer
+                0x0000175c        0x4 src/main.c.12.o
  .bss.date_layer
-                0x000016e0        0x4 src/main.c.12.o
+                0x00001760        0x4 src/main.c.12.o
  .bss.hour_hand_path
-                0x000016e4        0x4 src/main.c.12.o
+                0x00001764        0x4 src/main.c.12.o
  .bss.hour_angle_anim
-                0x000016e8        0x4 src/main.c.12.o
-                0x000016e8                hour_angle_anim
+                0x00001768        0x4 src/main.c.12.o
+                0x00001768                hour_angle_anim
  .bss.g_conserve
-                0x000016ec        0x1 src/main.c.12.o
-                0x000016ec                g_conserve
+                0x0000176c        0x1 src/main.c.12.o
+                0x0000176c                g_conserve
 
 DISCARD
  libc.a(*)
@@ -918,77 +951,77 @@ OUTPUT(/home/teo/workspace/pebble/ModernTeog/build/pebble-app.elf elf32-littlear
 .ARM.attributes
                 0x00000000       0x27
  .ARM.attributes
-                0x00000000       0x19 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crti.o
+                0x00000000       0x19 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crti.o
  .ARM.attributes
-                0x00000019       0x29 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtbegin.o
+                0x00000019       0x29 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtbegin.o
  .ARM.attributes
                 0x00000042       0x33 src/main.c.12.o
  .ARM.attributes
                 0x00000075       0x33 appinfo.auto.c.12.o
  .ARM.attributes
-                0x000000a8       0x21 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/Pebble/lib/libpebble.a(tmpW5b3swpebble.o)
+                0x000000a8       0x21 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/Pebble/lib/libpebble.a(tmpHP0PEBpebble.o)
  .ARM.attributes
-                0x000000c9       0x19 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_addsubdf3.o)
+                0x000000c9       0x19 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_addsubdf3.o)
  .ARM.attributes
-                0x000000e2       0x19 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_muldivdf3.o)
+                0x000000e2       0x19 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_muldivdf3.o)
  .ARM.attributes
-                0x000000fb       0x19 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_fixunsdfsi.o)
+                0x000000fb       0x19 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_fixunsdfsi.o)
  .ARM.attributes
-                0x00000114       0x29 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtend.o
+                0x00000114       0x29 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtend.o
  .ARM.attributes
-                0x0000013d       0x19 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtn.o
+                0x0000013d       0x19 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtn.o
 
 .comment        0x00000000       0x4e
- .comment       0x00000000       0x4e /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtbegin.o
+ .comment       0x00000000       0x4e /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtbegin.o
                                  0x4f (size before relaxing)
  .comment       0x00000000       0x4f src/main.c.12.o
  .comment       0x00000000       0x4f appinfo.auto.c.12.o
- .comment       0x00000000       0x4f /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtend.o
+ .comment       0x00000000       0x4f /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtend.o
 
-.debug_info     0x00000000     0x1fff
- .debug_info    0x00000000     0x1a7f src/main.c.12.o
- .debug_info    0x00001a7f      0x367 appinfo.auto.c.12.o
- .debug_info    0x00001de6       0xb3 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_addsubdf3.o)
- .debug_info    0x00001e99       0xb3 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_muldivdf3.o)
- .debug_info    0x00001f4c       0xb3 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_fixunsdfsi.o)
+.debug_info     0x00000000     0x26e6
+ .debug_info    0x00000000     0x2166 src/main.c.12.o
+ .debug_info    0x00002166      0x367 appinfo.auto.c.12.o
+ .debug_info    0x000024cd       0xb3 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_addsubdf3.o)
+ .debug_info    0x00002580       0xb3 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_muldivdf3.o)
+ .debug_info    0x00002633       0xb3 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_fixunsdfsi.o)
 
-.debug_abbrev   0x00000000      0x4ef
- .debug_abbrev  0x00000000      0x408 src/main.c.12.o
- .debug_abbrev  0x00000408       0xab appinfo.auto.c.12.o
- .debug_abbrev  0x000004b3       0x14 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_addsubdf3.o)
- .debug_abbrev  0x000004c7       0x14 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_muldivdf3.o)
- .debug_abbrev  0x000004db       0x14 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_fixunsdfsi.o)
+.debug_abbrev   0x00000000      0x580
+ .debug_abbrev  0x00000000      0x499 src/main.c.12.o
+ .debug_abbrev  0x00000499       0xab appinfo.auto.c.12.o
+ .debug_abbrev  0x00000544       0x14 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_addsubdf3.o)
+ .debug_abbrev  0x00000558       0x14 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_muldivdf3.o)
+ .debug_abbrev  0x0000056c       0x14 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_fixunsdfsi.o)
 
-.debug_loc      0x00000000      0x88a
- .debug_loc     0x00000000      0x88a src/main.c.12.o
+.debug_loc      0x00000000      0x819
+ .debug_loc     0x00000000      0x819 src/main.c.12.o
 
-.debug_aranges  0x00000000      0x118
+.debug_aranges  0x00000000      0x140
  .debug_aranges
-                0x00000000       0xa0 src/main.c.12.o
+                0x00000000       0xc8 src/main.c.12.o
  .debug_aranges
-                0x000000a0       0x18 appinfo.auto.c.12.o
+                0x000000c8       0x18 appinfo.auto.c.12.o
  .debug_aranges
-                0x000000b8       0x20 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_addsubdf3.o)
+                0x000000e0       0x20 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_addsubdf3.o)
  .debug_aranges
-                0x000000d8       0x20 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_muldivdf3.o)
+                0x00000100       0x20 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_muldivdf3.o)
  .debug_aranges
-                0x000000f8       0x20 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_fixunsdfsi.o)
+                0x00000120       0x20 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_fixunsdfsi.o)
 
-.debug_ranges   0x00000000       0x90
- .debug_ranges  0x00000000       0x90 src/main.c.12.o
+.debug_ranges   0x00000000       0xd0
+ .debug_ranges  0x00000000       0xd0 src/main.c.12.o
 
-.debug_line     0x00000000      0xa94
- .debug_line    0x00000000      0x4bc src/main.c.12.o
- .debug_line    0x000004bc      0x126 appinfo.auto.c.12.o
- .debug_line    0x000005e2      0x20a /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_addsubdf3.o)
- .debug_line    0x000007ec      0x226 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_muldivdf3.o)
- .debug_line    0x00000a12       0x82 /home/teo/bin/pebble-dev/PebbleSDK-2.0-BETA7/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_fixunsdfsi.o)
+.debug_line     0x00000000      0xae6
+ .debug_line    0x00000000      0x516 src/main.c.12.o
+ .debug_line    0x00000516      0x11e appinfo.auto.c.12.o
+ .debug_line    0x00000634      0x20a /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_addsubdf3.o)
+ .debug_line    0x0000083e      0x226 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_muldivdf3.o)
+ .debug_line    0x00000a64       0x82 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_fixunsdfsi.o)
 
-.debug_str      0x00000000      0xe8e
- .debug_str     0x00000000      0xcbd src/main.c.12.o
-                                0xd6b (size before relaxing)
- .debug_str     0x00000cbd      0x1d1 appinfo.auto.c.12.o
+.debug_str      0x00000000     0x1356
+ .debug_str     0x00000000     0x1185 src/main.c.12.o
+                               0x1276 (size before relaxing)
+ .debug_str     0x00001185      0x1d1 appinfo.auto.c.12.o
                                 0x381 (size before relaxing)
 
-.debug_frame    0x00000000      0x1ec
- .debug_frame   0x00000000      0x1ec src/main.c.12.o
+.debug_frame    0x00000000      0x240
+ .debug_frame   0x00000000      0x240 src/main.c.12.o

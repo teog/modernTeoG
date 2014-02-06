@@ -7,7 +7,7 @@
 	"TODO___version":       10,
     	"vibe_pat_disconnect":  11,
     	"vibe_pat_connect":     12,
-	"message_type":         99
+	"message_type":         99,
     },
     "longName": "Modern Teog",
     "versionCode": 1,
