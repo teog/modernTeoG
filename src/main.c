@@ -6,14 +6,12 @@
 
 // define the persistent storage key(s)
 #define PK_SETTINGS      0
-#define AK_MESSAGE_TYPE          99
+
 // define the appkeys used for appMessages
 #define AK_STYLE_INV     0
-#define AK_STYLE_DAY_INV 1
-#define AK_VERSION       10 // UNUSED
 #define AK_VIBE_PAT_DISCONNECT   11
 #define AK_VIBE_PAT_CONNECT      12
-
+#define AK_MESSAGE_TYPE          99
 
 // connected info
 static bool bluetooth_connected = false;
@@ -22,16 +20,14 @@ static bool vibe_suppression = false;
 
 // Create a struct to hold our persistent settings...
 typedef struct persist {
-  uint8_t version;                // version key
   uint8_t inverted;               // Invert display
   uint8_t vibe_pat_disconnect;    // vibration pattern for disconnect
   uint8_t vibe_pat_connect;       // vibration pattern for connect
 } __attribute__((__packed__)) persist;
 
 persist settings = {
-  .version    = 10,
-  .inverted   = 1, // no, dark
-  .vibe_pat_disconnect = 3, // double vibe
+  .inverted   = 0, // no, dark
+  .vibe_pat_disconnect = 2, // double vibe
   .vibe_pat_connect = 0, // no vibe
 };
 
@@ -410,8 +406,8 @@ static void app_message_init(void) {
   app_message_register_inbox_dropped(my_in_drp_handler);
   app_message_register_outbox_sent(my_out_sent_handler);
   app_message_register_outbox_failed(my_out_fail_handler);
-  // Init buffers
-  app_message_open(app_message_inbox_size_maximum(), app_message_outbox_size_maximum());
+  // Init buffers 
+  app_message_open(app_message_inbox_size_maximum(),        app_message_outbox_size_maximum());
 }
 
 void init() {

@@ -1,11 +1,9 @@
 {
     "versionLabel": "1.0.0",
-    "uuid": "b03f16a0-7cbb-11e3-baa7-0800200c9a66",
+    "uuid": "2cc1672b-7d6f-41e7-9db8-abf09aba3774",
     "appKeys": {
         "style_inv":     0,
-        "style_day_inv": 1,
-	"TODO___version":       10,
-    	"vibe_pat_disconnect":  11,
+        "vibe_pat_disconnect":  11,
     	"vibe_pat_connect":     12,
 	"message_type":         99
     },

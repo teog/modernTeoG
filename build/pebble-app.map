@@ -873,8 +873,9 @@ LOAD /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-no
  .data.__compound_literal.1
                 0x00001864       0x10 src/main.c.12.o
  .data.settings
-                0x00001874        0x4 src/main.c.12.o
+                0x00001874        0x3 src/main.c.12.o
                 0x00001874                settings
+ *fill*         0x00001877        0x1 
  .data.rel.ro.local.HOUR_HAND_PATH_POINTS
                 0x00001878        0x8 src/main.c.12.o
                 0x00001878                HOUR_HAND_PATH_POINTS
@@ -984,12 +985,12 @@ OUTPUT(/home/teo/workspace/pebble/ModernTeog/build/pebble-app.elf elf32-littlear
  .comment       0x00000000       0x4f appinfo.auto.c.12.o
  .comment       0x00000000       0x4f /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/crtend.o
 
-.debug_info     0x00000000     0x278c
- .debug_info    0x00000000     0x220c src/main.c.12.o
- .debug_info    0x0000220c      0x367 appinfo.auto.c.12.o
- .debug_info    0x00002573       0xb3 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_addsubdf3.o)
- .debug_info    0x00002626       0xb3 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_muldivdf3.o)
- .debug_info    0x000026d9       0xb3 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_fixunsdfsi.o)
+.debug_info     0x00000000     0x277e
+ .debug_info    0x00000000     0x21fe src/main.c.12.o
+ .debug_info    0x000021fe      0x367 appinfo.auto.c.12.o
+ .debug_info    0x00002565       0xb3 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_addsubdf3.o)
+ .debug_info    0x00002618       0xb3 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_muldivdf3.o)
+ .debug_info    0x000026cb       0xb3 /home/teo/bin/pebble-dev/PebbleSDK-2.0.0/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.3/thumb2/libgcc.a(_arm_fixunsdfsi.o)
 
 .debug_abbrev   0x00000000      0x574
  .debug_abbrev  0x00000000      0x48d src/main.c.12.o

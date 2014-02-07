@@ -89,11 +89,10 @@
         return options;
       }
 
-      $().ready(function() {
+       $().ready(function() {
        if (typeof window.localStorage !== "undefined") {
         if (window.localStorage.pebble_timely_options) {
           ls_pto = JSON.parse(window.localStorage.pebble_timely_options);
-          
 		  // the Pebble webview dies on the next line...
           $("input[name=key0][id=key0-"+ls_pto["style_inv"]+"]").prop('checked',true);
           $("input[name=key0]").checkboxradio('refresh');
@@ -104,11 +103,7 @@
             $("input[name=key12][id=key12-"+ls_pto["vibe_pat_connect"]+"]").prop('checked',true);
             $("input[name=key12]").checkboxradio('refresh');
           }
-		  
-          if ("trans_connected" in ls_pto) {
-            $("input[name=key527]").val(ls_pto["trans_connected"]);
-            $("input[name=key528]").val(ls_pto["trans_disconnected"]);
-          }
+	
         }
        }
         $("#b-cancel").click(function() {
