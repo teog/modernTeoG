@@ -18,9 +18,7 @@
 // connected info
 static bool bluetooth_connected = false;
 // suppress vibration
-static bool vibe_suppression = true;
-
-// Create a struct to hold our persistent settings...
+static bool vibe_suppression = false;
 
 // Create a struct to hold our persistent settings...
 typedef struct persist {
@@ -32,8 +30,8 @@ typedef struct persist {
 
 persist settings = {
   .version    = 10,
-  .inverted   = 0, // no, dark
-  .vibe_pat_disconnect = 2, // double vibe
+  .inverted   = 1, // no, dark
+  .vibe_pat_disconnect = 3, // double vibe
   .vibe_pat_connect = 0, // no vibe
 };
 
