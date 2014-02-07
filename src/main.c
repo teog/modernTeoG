@@ -313,12 +313,14 @@ void generate_vibe(uint32_t vibe_pattern_number) {
 void bt_layer_update_callback(Layer *layer, GContext *ctx) {
   if (bt_ok){
   	graphics_context_set_compositing_mode(ctx, GCompOpAssign);
-        generate_vibe(settings.vibe_pat_connect);
+//        if (bluetooth_connected == false)
+        	generate_vibe(settings.vibe_pat_connect);   //connected make viber only first time
 	bluetooth_connected = true;
   }
   else{
   	graphics_context_set_compositing_mode(ctx, GCompOpClear);
-	generate_vibe(settings.vibe_pat_disconnect);
+//	if (bluetooth_connected == true)
+		generate_vibe(settings.vibe_pat_disconnect);  //disconnected make viber only firs time
 	bluetooth_connected = false;
   }
   graphics_draw_bitmap_in_rect(ctx, icon_bt, GRect(0, 0, 9, 12));
@@ -326,6 +328,7 @@ void bt_layer_update_callback(Layer *layer, GContext *ctx) {
 
 void bt_connection_handler(bool connected) {
 	bt_ok = connected;
+	bluetooth_connected = connected;
 	layer_mark_dirty(bt_layer);
 }
 
@@ -336,17 +339,18 @@ void draw_background_callback(Layer *layer, GContext *ctx) {
 }
 
 
-
 void in_configuration_handler(DictionaryIterator *received, void *context) {
     // style_inv == inverted
     Tuple *style_inv = dict_find(received, AK_STYLE_INV);
     
     if (style_inv != NULL) {
       settings.inverted = style_inv->value->uint8;
-      if (style_inv->value->uint8==0) {
-        //layer_set_hidden(inverter_layer_get_layer(inverter_layer), true); // hide inversion = dark
+      if (settings.inverted==0) {
+        layer_set_hidden(inverter_layer_get_layer(full_inverse_layer), true); // hide inversion = dark
       } else {
-        //layer_set_hidden(inverter_layer_get_layer(inverter_layer), false); // show inversion = light
+        
+        layer_set_hidden(inverter_layer_get_layer(full_inverse_layer), false); // show inversion = light
+	
       }
     }
 
@@ -490,10 +494,15 @@ void init() {
 
 	// Configurable inverse
 #ifdef INVERSE
-        if (settings.inverted!=0){
+        
 	full_inverse_layer = inverter_layer_create(GRECT_FULL_WINDOW);
 	layer_add_child(window_layer, inverter_layer_get_layer(full_inverse_layer));
-        }
+        
+	if (settings.inverted==0) {
+        	layer_set_hidden(inverter_layer_get_layer(full_inverse_layer), true); // hide inversion = dark
+        } else {
+        	layer_set_hidden(inverter_layer_get_layer(full_inverse_layer), false); // show inversion = light
+	}
 #endif
 
 
@@ -515,9 +524,9 @@ void deinit() {
 	layer_destroy(bt_layer);
 
 #ifdef INVERSE
-        if (settings.inverted!=0){
+        
 	inverter_layer_destroy(full_inverse_layer);
-	}
+	
 #endif
 
 	layer_destroy(background_layer);

@@ -7,4 +7,4 @@ Modern watchface
 -no second
 -http configuration
 -reverse B/W
--enalrge date
+TODO -enalrge date
